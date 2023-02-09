@@ -9,7 +9,7 @@ namespace ApexRestaurant.Repository
         string migrationsAssembly)
         {
             services.AddDbContext<RestaurantContext>(options => 
-            options.UseSqlServer(connection, builder =>
+            options.UseMySQL(connection, builder =>
             builder.MigrationsAssembly(migrationsAssembly)));
             services.AddTransient<ICustomerRepository, CustomerRepository>();
         }

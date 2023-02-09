@@ -765,6 +765,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2",
+          "MySql.EntityFrameworkCore": "7.0.0",
           "Newtonsoft.Json": "13.0.2"
         },
         "runtime": {
