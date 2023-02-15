@@ -13,3 +13,18 @@ D:\dotnetCourse\RestaurantProject\ApexRestaurant.Services\obj\Debug\net7.0\ApexR
 D:\dotnetCourse\RestaurantProject\ApexRestaurant.Services\obj\Debug\net7.0\refint\ApexRestaurant.Services.dll
 D:\dotnetCourse\RestaurantProject\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.pdb
 D:\dotnetCourse\RestaurantProject\ApexRestaurant.Services\obj\Debug\net7.0\ref\ApexRestaurant.Services.dll
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\bin\Debug\net7.0\ApexRestaurant.Services.deps.json
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\bin\Debug\net7.0\ApexRestaurant.Services.dll
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\bin\Debug\net7.0\ApexRestaurant.Services.pdb
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\bin\Debug\net7.0\ApexRestaurant.Repository.dll
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\bin\Debug\net7.0\ApexRestaurant.Repository.pdb
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.csproj.AssemblyReference.cache
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.AssemblyInfoInputs.cache
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.AssemblyInfo.cs
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.csproj.CoreCompileInputs.cache
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.csproj.CopyComplete
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.dll
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\refint\ApexRestaurant.Services.dll
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ApexRestaurant.Services.pdb
+D:\Dotnet Project\DotNet-Resaurant\ApexRestaurant.Services\obj\Debug\net7.0\ref\ApexRestaurant.Services.dll
